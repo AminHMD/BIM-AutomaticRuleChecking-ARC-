@@ -1,4 +1,4 @@
-Requirment to use the app:
+Requirment to use ARCLUX app:
 
 	- Designing should be done in REVIT Autodesk
 	- It is required to start modeling in the “Metric-Architectural Template” 
